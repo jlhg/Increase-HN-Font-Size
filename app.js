@@ -15,20 +15,17 @@
       e.style.fontSize = '16px';
   });
 
-
   let comments = document.getElementsByClassName('comment');
   [].forEach.call(comments, function(e) {
       e.style.fontSize = '14px';
       e.style.lineHeight = '1.5';
   });
 
-
   let comheads = document.getElementsByClassName('comhead');
   [].forEach.call(comheads, function(e) {
       e.style.fontSize = '14px';
       e.style.lineHeight = '1.5';
   });
-
 
   let subtexts = document.getElementsByClassName('subtext');
   [].forEach.call(subtexts, function(e) {
