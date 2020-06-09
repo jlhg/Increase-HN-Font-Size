@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Increase HN Font Size
 // @namespace    https://greasyfork.org/zh-TW/users/79288
-// @version      1.0
+// @version      1.1
 // @description  A user script to increase Hacker News's font size
 // @author       jlhg
 // @match        https://news.ycombinator.com/*
